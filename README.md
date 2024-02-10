@@ -1,2 +1,2 @@
 # notes
-Collecting notes here
+Collecting my notes here
