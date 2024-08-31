@@ -1,3 +1,8 @@
+---
+title: "What is dotnet task?"
+description: "Explain Task of .NET"
+---
+
 ### What is Task in .NET?
 
 In .NET, a `Task` represents an asynchronous operation that may or may not return a value. It is a core concept in .NET's asynchronous programming model, providing a way to manage and monitor background operations.
